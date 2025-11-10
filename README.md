@@ -4,7 +4,7 @@ for Cross-city Battery Swap Demand Prediction.
 
 # Introduction
 ### Framework of FedDiff
-<img src="https://github.com/UAV-Delta/STKDec/blob/main/img/problem.pic.jpg" width="600"/>
+<img src="https://github.com/UAV-Delta/STKDec/blob/main/img/problem.pic.jpg" width="800"/>
 
 FedDiff is a federated conditional latent diffusion model for cross-city battery swap demand prediction. FedDiff treats each participating battery swapping company as a federated client. Each client independently trains a diffusion model using data from the multiple cities in which it operates, and shares only the model parameters with a central server to update a global model.
 Specifically, It involves three stages: (1) local
@@ -12,12 +12,12 @@ model training on each client; (2) global model aggregation on the
 server; and (3) model convergence and demand prediction.
 
 ### Illustration of local diffusion model training on each client
-<img src="https://github.com/UAV-Delta/STKDec/blob/main/img/framework.pic.jpg" width="800" />
+<img src="https://github.com/UAV-Delta/STKDec/blob/main/img/framework.pic.jpg" width="400" />
 
 The local model training on each client consists of two phases: (1) the forward diffusion phase taking the latent representations extracted by the missingness-tolerant masked autoencoder as input; and (2) the reverse denoising phase conditioned on a UKG-based urban environment characterization.
 
 ### Illustration of local diffusion model training on each client
-<img src="https://github.com/UAV-Delta/STKDec/blob/main/img/method.pic.jpg" width="800" />
+<img src="https://github.com/UAV-Delta/STKDec/blob/main/img/method.pic.jpg" width="600" />
 
 The local model training on each client consists of two phases: (1) the forward diffusion phase taking the latent representations extracted by the missingness-tolerant masked autoencoder as input; and (2) the reverse denoising phase conditioned on a UKG-based urban environment characterization.
 
