@@ -3,13 +3,10 @@ A pytorch implementation for the paper: Knowledge-enhanced Denoising Diffusion
 for Cross-city Battery Swap Demand Prediction.
 
 # Introduction
-### Framework of FedDiff
+### Problem describetion
 <img src="https://github.com/UAV-Delta/STKDec/blob/main/img/problem.pic.jpg" width="800"/>
 
-FedDiff is a federated conditional latent diffusion model for cross-city battery swap demand prediction. FedDiff treats each participating battery swapping company as a federated client. Each client independently trains a diffusion model using data from the multiple cities in which it operates, and shares only the model parameters with a central server to update a global model.
-Specifically, It involves three stages: (1) local
-model training on each client; (2) global model aggregation on the
-server; and (3) model convergence and demand prediction.
+We consider two cities, i.e. the source city and the target city. In the source city, the battery swap station network has already been deployed. In the target city, a battery swap station deployment plan is in place, and we aim to predict the corresponding battery swap demands for this plan before actual deployment. 
 
 ### Illustration of local diffusion model training on each client
 <img src="https://github.com/UAV-Delta/STKDec/blob/main/img/framework.pic.jpg" width="400" />
