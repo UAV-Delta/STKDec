@@ -1,0 +1,455 @@
+{
+"POI1": {
+"idx": 0
+},
+"POI10": {
+"idx": 1
+},
+"POI11": {
+"idx": 2
+},
+"POI12": {
+"idx": 3
+},
+"POI13": {
+"idx": 4
+},
+"POI14": {
+"idx": 5
+},
+"POI2": {
+"idx": 6
+},
+"POI3": {
+"idx": 7
+},
+"POI4": {
+"idx": 8
+},
+"POI5": {
+"idx": 9
+},
+"POI6": {
+"idx": 10
+},
+"POI7": {
+"idx": 11
+},
+"POI8": {
+"idx": 12
+},
+"POI9": {
+"idx": 13
+},
+"beijing": {
+"idx": 14
+},
+"beijing_station1": {
+"idx": 15
+},
+"beijing_station10": {
+"idx": 16
+},
+"beijing_station11": {
+"idx": 17
+},
+"beijing_station12": {
+"idx": 18
+},
+"beijing_station13": {
+"idx": 19
+},
+"beijing_station14": {
+"idx": 20
+},
+"beijing_station15": {
+"idx": 21
+},
+"beijing_station16": {
+"idx": 22
+},
+"beijing_station17": {
+"idx": 23
+},
+"beijing_station18": {
+"idx": 24
+},
+"beijing_station19": {
+"idx": 25
+},
+"beijing_station2": {
+"idx": 26
+},
+"beijing_station20": {
+"idx": 27
+},
+"beijing_station21": {
+"idx": 28
+},
+"beijing_station22": {
+"idx": 29
+},
+"beijing_station23": {
+"idx": 30
+},
+"beijing_station24": {
+"idx": 31
+},
+"beijing_station3": {
+"idx": 32
+},
+"beijing_station4": {
+"idx": 33
+},
+"beijing_station5": {
+"idx": 34
+},
+"beijing_station6": {
+"idx": 35
+},
+"beijing_station7": {
+"idx": 36
+},
+"beijing_station8": {
+"idx": 37
+},
+"beijing_station9": {
+"idx": 38
+},
+"big": {
+"idx": 39
+},
+"business": {
+"idx": 40
+},
+"chengdu": {
+"idx": 41
+},
+"chengdu_station1": {
+"idx": 42
+},
+"chengdu_station10": {
+"idx": 43
+},
+"chengdu_station11": {
+"idx": 44
+},
+"chengdu_station12": {
+"idx": 45
+},
+"chengdu_station13": {
+"idx": 46
+},
+"chengdu_station14": {
+"idx": 47
+},
+"chengdu_station15": {
+"idx": 48
+},
+"chengdu_station16": {
+"idx": 49
+},
+"chengdu_station17": {
+"idx": 50
+},
+"chengdu_station18": {
+"idx": 51
+},
+"chengdu_station19": {
+"idx": 52
+},
+"chengdu_station2": {
+"idx": 53
+},
+"chengdu_station20": {
+"idx": 54
+},
+"chengdu_station21": {
+"idx": 55
+},
+"chengdu_station22": {
+"idx": 56
+},
+"chengdu_station23": {
+"idx": 57
+},
+"chengdu_station24": {
+"idx": 58
+},
+"chengdu_station25": {
+"idx": 59
+},
+"chengdu_station26": {
+"idx": 60
+},
+"chengdu_station27": {
+"idx": 61
+},
+"chengdu_station28": {
+"idx": 62
+},
+"chengdu_station29": {
+"idx": 63
+},
+"chengdu_station3": {
+"idx": 64
+},
+"chengdu_station30": {
+"idx": 65
+},
+"chengdu_station31": {
+"idx": 66
+},
+"chengdu_station32": {
+"idx": 67
+},
+"chengdu_station33": {
+"idx": 68
+},
+"chengdu_station34": {
+"idx": 69
+},
+"chengdu_station35": {
+"idx": 70
+},
+"chengdu_station36": {
+"idx": 71
+},
+"chengdu_station37": {
+"idx": 72
+},
+"chengdu_station38": {
+"idx": 73
+},
+"chengdu_station39": {
+"idx": 74
+},
+"chengdu_station4": {
+"idx": 75
+},
+"chengdu_station40": {
+"idx": 76
+},
+"chengdu_station41": {
+"idx": 77
+},
+"chengdu_station42": {
+"idx": 78
+},
+"chengdu_station43": {
+"idx": 79
+},
+"chengdu_station44": {
+"idx": 80
+},
+"chengdu_station45": {
+"idx": 81
+},
+"chengdu_station46": {
+"idx": 82
+},
+"chengdu_station47": {
+"idx": 83
+},
+"chengdu_station48": {
+"idx": 84
+},
+"chengdu_station49": {
+"idx": 85
+},
+"chengdu_station5": {
+"idx": 86
+},
+"chengdu_station50": {
+"idx": 87
+},
+"chengdu_station51": {
+"idx": 88
+},
+"chengdu_station52": {
+"idx": 89
+},
+"chengdu_station53": {
+"idx": 90
+},
+"chengdu_station54": {
+"idx": 91
+},
+"chengdu_station6": {
+"idx": 92
+},
+"chengdu_station7": {
+"idx": 93
+},
+"chengdu_station8": {
+"idx": 94
+},
+"chengdu_station9": {
+"idx": 95
+},
+"people": {
+"idx": 96
+},
+"recreation": {
+"idx": 97
+},
+"residential": {
+"idx": 98
+},
+"shanghai": {
+"idx": 99
+},
+"shanghai_station1": {
+"idx": 100
+},
+"shanghai_station10": {
+"idx": 101
+},
+"shanghai_station11": {
+"idx": 102
+},
+"shanghai_station12": {
+"idx": 103
+},
+"shanghai_station13": {
+"idx": 104
+},
+"shanghai_station14": {
+"idx": 105
+},
+"shanghai_station15": {
+"idx": 106
+},
+"shanghai_station16": {
+"idx": 107
+},
+"shanghai_station17": {
+"idx": 108
+},
+"shanghai_station18": {
+"idx": 109
+},
+"shanghai_station19": {
+"idx": 110
+},
+"shanghai_station2": {
+"idx": 111
+},
+"shanghai_station20": {
+"idx": 112
+},
+"shanghai_station21": {
+"idx": 113
+},
+"shanghai_station22": {
+"idx": 114
+},
+"shanghai_station23": {
+"idx": 115
+},
+"shanghai_station24": {
+"idx": 116
+},
+"shanghai_station25": {
+"idx": 117
+},
+"shanghai_station26": {
+"idx": 118
+},
+"shanghai_station27": {
+"idx": 119
+},
+"shanghai_station28": {
+"idx": 120
+},
+"shanghai_station29": {
+"idx": 121
+},
+"shanghai_station3": {
+"idx": 122
+},
+"shanghai_station30": {
+"idx": 123
+},
+"shanghai_station31": {
+"idx": 124
+},
+"shanghai_station32": {
+"idx": 125
+},
+"shanghai_station33": {
+"idx": 126
+},
+"shanghai_station34": {
+"idx": 127
+},
+"shanghai_station35": {
+"idx": 128
+},
+"shanghai_station36": {
+"idx": 129
+},
+"shanghai_station37": {
+"idx": 130
+},
+"shanghai_station38": {
+"idx": 131
+},
+"shanghai_station39": {
+"idx": 132
+},
+"shanghai_station4": {
+"idx": 133
+},
+"shanghai_station40": {
+"idx": 134
+},
+"shanghai_station41": {
+"idx": 135
+},
+"shanghai_station42": {
+"idx": 136
+},
+"shanghai_station43": {
+"idx": 137
+},
+"shanghai_station44": {
+"idx": 138
+},
+"shanghai_station45": {
+"idx": 139
+},
+"shanghai_station46": {
+"idx": 140
+},
+"shanghai_station47": {
+"idx": 141
+},
+"shanghai_station48": {
+"idx": 142
+},
+"shanghai_station49": {
+"idx": 143
+},
+"shanghai_station5": {
+"idx": 144
+},
+"shanghai_station50": {
+"idx": 145
+},
+"shanghai_station6": {
+"idx": 146
+},
+"shanghai_station7": {
+"idx": 147
+},
+"shanghai_station8": {
+"idx": 148
+},
+"shanghai_station9": {
+"idx": 149
+},
+"small": {
+"idx": 150
+}
+}
