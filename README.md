@@ -3,20 +3,20 @@ A pytorch implementation for the paper: Knowledge-enhanced Denoising Diffusion
 for Cross-city Battery Swap Demand Prediction.
 
 # Introduction
-### Problem describetion
+### Problem description
 <img src="https://github.com/UAV-Delta/STKDec/blob/main/img/problem.pic.jpg" width="800"/>
 
 We consider two cities, i.e. the source city and the target city. In the source city, the battery swap station network has already been deployed. In the target city, a battery swap station deployment plan is in place, and we aim to predict the corresponding battery swap demands for this plan before actual deployment. 
 
-### Illustration of local diffusion model training on each client
+### Framework of STKDec
 <img src="https://github.com/UAV-Delta/STKDec/blob/main/img/framework.pic.jpg" width="400" />
 
-The local model training on each client consists of two phases: (1) the forward diffusion phase taking the latent representations extracted by the missingness-tolerant masked autoencoder as input; and (2) the reverse denoising phase conditioned on a UKG-based urban environment characterization.
+The framework of STKDec, a selective spatiotemporal knowledge-enhanced conditional diffusion model, which includes a forward diffusion module, a reverse denoising module, and a condition control module.
 
-### Illustration of local diffusion model training on each client
+### Illustration of conditional control module in STKDec
 <img src="https://github.com/UAV-Delta/STKDec/blob/main/img/method.pic.jpg" width="600" />
 
-The local model training on each client consists of two phases: (1) the forward diffusion phase taking the latent representations extracted by the missingness-tolerant masked autoencoder as input; and (2) the reverse denoising phase conditioned on a UKG-based urban environment characterization.
+Design of the station context representation-based condition module(the upper panel), which comprises three components: (1) environment feature embedding, (2) inter-station interaction modeling, and (3) user behavior representation; The lower panel illustrates the implement of the cross-city demand prediction model within the target urban environment.
 
 # Installation
 ### Environment
