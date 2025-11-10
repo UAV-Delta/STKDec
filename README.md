@@ -12,12 +12,12 @@ model training on each client; (2) global model aggregation on the
 server; and (3) model convergence and demand prediction.
 
 ### Illustration of local diffusion model training on each client
-<img src="https://github.com/UAV-Delta/STKDec/blob/main/img/Framework.pic.jpg" width="800" />
+<img src="https://github.com/UAV-Delta/STKDec/blob/main/img/framework.pic.jpg" width="800" />
 
 The local model training on each client consists of two phases: (1) the forward diffusion phase taking the latent representations extracted by the missingness-tolerant masked autoencoder as input; and (2) the reverse denoising phase conditioned on a UKG-based urban environment characterization.
 
 ### Illustration of local diffusion model training on each client
-<img src="https://github.com/UAV-Delta/STKDec/blob/main/img/Method.pic.jpg" width="800" />
+<img src="https://github.com/UAV-Delta/STKDec/blob/main/img/method.pic.jpg" width="800" />
 
 The local model training on each client consists of two phases: (1) the forward diffusion phase taking the latent representations extracted by the missingness-tolerant masked autoencoder as input; and (2) the reverse denoising phase conditioned on a UKG-based urban environment characterization.
 
